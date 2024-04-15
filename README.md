@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá, mundo ! Eu sou o João Henrique, ou Jão 👋
 
-<!--
-**jaohss/jaohss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Sou estudante no curso de Análise e Desenvolvimento de Sistemas
+- 💻 Iniciante no ramo da T.I.
+- 😄 Pronouns: Ele/dele
+- ⚡ Fun fact: Sou um apreciador na área de design e edição de vídeos
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaohss&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaohss&layout=compact)](https://github.com/jaohss/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation] (https://github.com/jaohss)
+
+
+  
