@@ -8,7 +8,5 @@ Olá, mundo ! Eu sou o João Henrique, ou Jão 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaohss&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaohss&layout=compact)](https://github.com/jaohss/github-readme-stats)
 
-![Snake animation] (https://github.com/jaohss)
-
 
   
